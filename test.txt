@@ -1,1 +1,2 @@
-//ekfkeshdıohsdgnds
+//bi flutter uygulaması  sayaç bulunsun ve her artışta sayının asallığını kontrol et ekrana yazırsın bunu asla mı değilmi
+// önceki ve sonraki butonu olsun öncekine basınca saycı mevcutta nönceki ilk asala güncelle sonraki butonu aynı mantık
